@@ -118,35 +118,7 @@ BUZZER:
 
 ## 🖼️ Fotos e Demonstrações do Sistema
 
-### Montagem do Circuito
-> 📸 _[Adicione aqui uma foto da montagem completa na protoboard]_
-
-![Montagem do Sistema](https://via.placeholder.com/600x400.png?text=Montagem+do+Sistema)
-
-### Sistema em Funcionamento - LED Verde (Distância Segura)
-> 📸 _[Adicione aqui uma foto com LED verde aceso, indicando distância > 60cm]_
-
-![LED Verde Ativo](https://via.placeholder.com/600x400.png?text=LED+Verde+-+Dist%C3%A2ncia+Segura)
-
-### Sistema em Funcionamento - LED Amarelo (Atenção)
-> 📸 _[Adicione aqui uma foto com LED amarelo aceso, indicando distância entre 30-60cm]_
-
-![LED Amarelo Ativo](https://via.placeholder.com/600x400.png?text=LED+Amarelo+-+Aten%C3%A7%C3%A3o)
-
-### Sistema em Funcionamento - LED Vermelho (Perigo)
-> 📸 _[Adicione aqui uma foto com LED vermelho aceso, indicando distância < 30cm]_
-
-![LED Vermelho Ativo](https://via.placeholder.com/600x400.png?text=LED+Vermelho+-+Perigo)
-
-### Monitor Serial
-> 📸 _[Adicione aqui um screenshot do Monitor Serial mostrando os dados]_
-
-![Monitor Serial](https://via.placeholder.com/600x400.png?text=Monitor+Serial)
-
-### Demonstração em Vídeo
-> 🎥 _[Adicione aqui um GIF ou link para vídeo demonstrando o sistema completo]_
-
-![Demonstração](https://via.placeholder.com/600x400.png?text=Demonstra%C3%A7%C3%A3o+em+V%C3%ADdeo)
+Na pasta "Imagens"
 
 ---
 
@@ -210,4 +182,4 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull r
 
 ---
 
-**Desenvolvido com ❤️ por Otavio, Caio e Kaio**
+**Desenvolvido por Otavio, Caio e Kaio**
